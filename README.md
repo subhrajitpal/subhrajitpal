@@ -24,10 +24,10 @@
 ### Development Stuffs:
 
 <b>⚡ Github Stats</b>
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhrajitpal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+
+![subhrajitpal's Stats](https://github-readme-stats.vercel.app/api?username=subhrajitpal&theme=default&show_icons=true&hide_border=true&count_private=true)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrajitpal&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 
 
 
@@ -61,3 +61,5 @@
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
+
+
