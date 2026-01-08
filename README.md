@@ -20,7 +20,7 @@
 ## I'm a Tech Enthusiast , Web Developer, Competitive Programmer and a passionate learner. 
 
 - 🎓 I am currently in 2nd year, B.Tech in Computer Science and Engineering from BIT,Kolkata
-- 👨‍💻 I am a web development enthusiast, currently exploring the world of app development.
+- 👨‍💻 I am a web development enthusiast.
 - 👯 I am into Competitive Programming , thus got some great debugging skills.
 - 👨‍💻 Currently learning backend using NODEJS and MONGODB and exploring opensource.
 - 💬 Reach out to me for DSA, Web Development and anything related to Competitive Programming.
