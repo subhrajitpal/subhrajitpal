@@ -1,10 +1,16 @@
-### Hi there 👋, I'm Subhrajit
+### Hi there 👋, I'm Subhrajit 
+
+### ✨ Daily Coding Inspiration
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=subhrajitpal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <p align="left">
-  <a href="https://codeforces.com/profile/subh_ra">
-    <img src="https://cp-logo.vercel.app/codeforces/subh_ra" alt="Leet code rating" />
-  </a>
   <a href="https://github.com/subhforcode/">
-    <img src="https://komarev.com/ghpvc/?username=subhforcode" alt="visitors" />
+    <img src="https://komarev.com/ghpvc/?username=subhrajitpal" alt="visitors" />
   </a>
 
 </p>
@@ -25,9 +31,10 @@
 
 <b>⚡ Github Stats</b>
 
-![subhrajitpal's Stats](https://github-readme-stats.vercel.app/api?username=subhrajitpal&theme=default&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=subhrajitpal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=subhrajitpal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhrajitpal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhrajitpal&langs_count=6&hide_border=true&border_radius=5&card_width=297&layout=compact&theme=react&show_icons=true)](https://github.com/subhrajitpal)
 
 
 
@@ -45,21 +52,5 @@
 
 
 
-### Connect With Me
 
-<p left="center">
-<a href="https://twitter.com/subhrajit_67">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/subhrajitpal1/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://www.instagram.com/subhra_jit_pal/">
-  <img src="https://img.shields.io/badge/Instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white" height=25>
-</a>
-<a href="mailto:subhrajitwork2@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-</p>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
